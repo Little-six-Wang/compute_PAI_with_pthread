@@ -1,5 +1,5 @@
-# compute_PAI_with_pthread
-Use `sum((-1)^n * 1 / (2 * n + 1))` to calculate the pai value with pthread
+# compute_PI_with_pthread
+Use `sum((-1)^n * 1 / (2 * n + 1))` to calculate the pi value with pthread
 # 说明
 为了处理临界区，我使用了两种处理方法:忙等待和互斥
 # 编译运行
